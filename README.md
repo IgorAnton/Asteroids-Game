@@ -10,4 +10,4 @@
 
 Gameplay:
 
-      ![Asteroids Gameplay](https://github.com/IgorAnton/Asteroids-Game/blob/b3ced3d777ee9fa46d23d571c8b33a8e2ef629e5/Asteroids%20Gameplay.png?raw=true)
+![Asteroids Gameplay](images/Asteroids%20Gameplay.png)
